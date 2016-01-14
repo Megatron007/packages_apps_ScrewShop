@@ -41,6 +41,14 @@
     <string name="profile_reset_title">Reset</string>
     <string name="show_title">Show</string>
     <string name="choose_app">Choose app</string>
+    <string name="reset_paranoid">Paranoid</string>
+    <string name="reset_android">Android</string>
+    <string name="reset_screwd">Screw\'d</string>
+    <string name="reset_colors">Reset colors</string>
+    <string name="text_title">Text</string>
+    <string name="icon_title">Icon</string>
+    <string name="color_title">Color</string>
+    <string name="colors_title">Colors</string>
 
     <!-- Tabs -->
     <string name="ui_tab">UI</string>
@@ -822,4 +830,14 @@
     <string name="weather_settings_options_title">Location settings</string>
     <string name="weather_settings_summary">Choose location and other settings</string>
     <string name="weather_show_location_summary">Display weather location</string>
+
+    <!-- Status Bar Ticker -->
+    <string name="ticker_screen_title">Ticker</string>
+    <string name="ticker_title">Status Bar Ticker</string>
+    <string name="ticker_screen_summary">Customize the ticker style</string>
+    <string name="ticker_summary">Enable the old status bar ticker</string>
+
+    <!-- Heads up switch -->
+    <string name="heads_up_switch_title">Heads up</string>
+    <string name="heads_up_switch_summary">Toogle Heads up globally, not per app.</string>
 </resources>
